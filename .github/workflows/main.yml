@@ -1,0 +1,7 @@
+- name: automated-build-android-app-with-github-action
+  # You may pin to the exact commit or the version.
+  # uses: amirisback/automated-build-android-app-with-github-action@147e51fc2301453862d50a9a817c8753c26e895f
+  uses: amirisback/automated-build-android-app-with-github-action@2.2.3
+  with:
+    # Input to use
+    myInput: # optional, default is world
